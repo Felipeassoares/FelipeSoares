@@ -7,7 +7,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiên
 Atuo como Analista de Soluções Customizadas, onde desenvolvo e implemento microsserviços e integrações. Estou sempre em busca de novos desafios e oportunidades de aprendizado, focando na entrega de soluções eficientes e escaláveis.
 
 ## Tecnologias e Stack
-
 Aqui estão as tecnologias com as quais tenho experiência:
 
 ### Linguagens de Programação
@@ -29,22 +28,6 @@ Aqui estão as tecnologias com as quais tenho experiência:
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
 - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
-
-## Experiência Profissional
-### Capgemini
-**Consultor**  
-Julho 2023 - Setembro 2023  
-Desenvolvi soluções utilizando Java, Angular e arquitetura hexagonal, realizando testes automatizados e versionamento de código com GitHub e Bitbucket.
-
-### H&H Corretora
-**Especialista em Seguros**  
-Junho 2021 - Julho 2024  
-Responsável pelo atendimento e emissão de apólices nos setores de seguros.
-
-### Icomon Tecnologia
-**Técnico de Fibra Óptica**  
-Maio 2014 - Setembro 2018  
-Atuação no setor de telecomunicações, com foco em instalação de fibra ótica.
 
 ## Contato
 - E-mail: [felipeaugustodasilvasoares@gmail.com](mailto:felipeaugustodasilvasoares@gmail.com)
