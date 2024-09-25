@@ -1,10 +1,18 @@
-# Felipe Soares
+👋 Olá! Sou Felipe Soares, **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação.
 
-**Bacharel em Engenharia da Computação**  
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento de soluções para os setores de transporte de valores e financeiro, utilizando uma variedade de tecnologias e metodologias ágeis.
+🎓 Bacharel em Engenharia da Computação pela Universidade Virtual do Estado de São Paulo Univesp no ano de 2022.
+
+Tenho experiência em desenvolvimento de soluções para os setores de transporte de valores e financeiro, utilizando uma variedade de tecnologias e metodologias ágeis.
 
 ## Sobre Mim
-Atuo como Analista de Soluções Customizadas, onde desenvolvo e implemento microsserviços e integrações. Estou sempre em busca de novos desafios e oportunidades de aprendizado, focando na entrega de soluções eficientes e escaláveis.
+
+Fiz a migração da área comercial para a área da tecnologia em 2021, participando de bootcamps pela Digital Innovation One (DIO), onde tive meus primeiros contatos com a área de desenvolvimento. Com menos de 2 anos para me formar, foquei em trabalhar nas lacunas necessárias para atuar nesse setor.
+
+Em 2022, participei do projeto #Start da Capgemini, onde participei ativamente de treinamentos mentorados pela empresa. Após a conclusão do treinamento, fui convidado para o processo seletivo, onde tive o desafio de me mostrar capaz e conquistar a tão sonhada vaga na área de TI. Entrei em julho de 2022 como analista, participando de mentorias e aprendizado contínuo. Fui designado para atuar em uma empresa de transporte de valores, onde trabalhei como desenvolvedor full stack, utilizando Java e Angular, além de PostgreSQL. Neste projeto, trabalhei com microserviços e fiz a sustentação para resolução de bugs, aprofundando meus conhecimentos em AWS, Docker, Jenkins e testes unitários com JUnit.
+
+Após esse projeto, participei de um treinamento na Impacta Tecnologia, onde me especializei em Full Stack Java + Angular, focando na parte front-end com TypeScript e JavaScript, além de reforçar meus conhecimentos em MySQL e MongoDB. Depois do curso, fui direcionado para trabalhar em uma instituição financeira, onde participei da construção de uma aplicação para auditoria do Bacen do zero, utilizando metodologias ágeis e arquitetura hexagonal, atuando tanto no back-end quanto no front-end.
+
+Atualmente, tenho experiência com Playwright e estou disponível para novas oportunidades na área de desenvolvimento (full stack, front-end, back-end ou QA). Meu próximo passo é realizar uma pós-graduação em desenvolvimento full stack e continuo estudando para avançar em minhas habilidades.
 
 ## Tecnologias e Stack
 Aqui estão as tecnologias com as quais tenho experiência:
